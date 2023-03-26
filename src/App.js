@@ -39,7 +39,7 @@ const App = () => {
       <VideoPlayer videos={videos} metas={metas} />
       <Slideshow />
       <header className="App-header">
-        <Week />
+        {/* <Week /> */}
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
